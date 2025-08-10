@@ -21,5 +21,5 @@ Code Features:
   (ii)PCA operations:
       -Converts raw data to essential components
       -Reduce components to 2 PCA components
-      -Save both sets of datasets above to separate external Excel files
+      -Save both sets of datasets above to separate external Excel files.
 
